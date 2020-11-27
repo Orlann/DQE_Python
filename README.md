@@ -1,5 +1,6 @@
 # DQE_Python
 Collecting information from files to SQLite DB
+
 Program analyzes forlder for 'fb2' files. 
 Excess files are removed to another folder. 
 Fb2 files are analyzed for next information: 
